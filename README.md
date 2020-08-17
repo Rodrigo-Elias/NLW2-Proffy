@@ -8,7 +8,7 @@ The website and app were made with react, and the server that would keep the reg
 
 
 
-Extra modules:
+**Extra modules:**
 
 Axios was used on website and the mobile app was Axios for the services.
 The app also uses expo as his base framework.
@@ -16,7 +16,7 @@ The app also uses expo as his base framework.
 Node used express for the basic framework, and also Knex for SQL querys.
 
 
-Installation:
+**Installation:**
 
 Use yarn to install dependencies (npm commands probably should work too), once done, on the server folder open an terminal and uses yarn start to create a local server.
 
@@ -25,6 +25,6 @@ Both web and mobile, a yarn start will also begin the apps, with mobile using th
 
 
 
-Final toughts:
+**Final toughts:**
 
 So far, this project can be improved a lot, and there's some points to be fixed (the week days on the mobile app are an example) i will return here as time comes by.
